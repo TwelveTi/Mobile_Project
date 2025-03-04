@@ -1,3 +1,10 @@
+MSSV: 22110083.
+
+NAME: Phan Dinh Trung.
+
+HOMEWORK: Affirmations App.
+
+================================
 Affirmations App - Starter Code
 ================================
 
@@ -24,3 +31,4 @@ Getting Started
 4. Build and run the sample.
 
 All photos by Romain Guy. All p67u68i7687iiu6yl65.m0;9p9hh;0h777otos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+
